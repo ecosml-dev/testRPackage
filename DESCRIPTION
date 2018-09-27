@@ -1,0 +1,9 @@
+Package: testRPackage
+Title: this is a test
+Version: 0.0.1
+Authors@R: person("Justin", "Merz", email = "jrmerz@gmail.com",
+                  role = c("aut", "cre"))
+Description: This is a test, this is only a test
+Depends: R (>= 3.1.0)
+License: MIT
+LazyData: true
