@@ -5,6 +5,7 @@ testloadcsv <- function() {
   print(data)
 }
 
+#' @export
 helloworld <- function() {
   print("Hello world");
 }
